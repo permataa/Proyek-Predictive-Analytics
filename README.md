@@ -1,5 +1,5 @@
 
-# Laporan Proyek Machine Learning - Permata Ayu Rahmawati
+# Proyek Machine Learning - Permata Ayu Rahmawati
 
 ## Project Overview
 
